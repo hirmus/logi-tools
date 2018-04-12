@@ -17,7 +17,7 @@ Wishbone util for reading / writing data
 
 ``` text
 Usage:
-    wbutil [-d] [-c X] <address> [write value] .. [write value]
+    wb_util [-d] [-c X] <address> [write value] .. [write value]
       -c uint
             read count (default 1)
       -d    debug info
